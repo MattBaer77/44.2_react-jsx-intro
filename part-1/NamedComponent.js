@@ -1,3 +1,3 @@
 const NamedComponent = ({name}) => {
-    return <p>My name is {name}</p>
+    return <p>My name is {name}</p>;
 };
