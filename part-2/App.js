@@ -1,12 +1,3 @@
-// const tweets = [
-//                 {
-//                     username : "User 1",
-//                     name : "User 1",
-//                     date : "User 1",
-//                     message : "User 1"
-//                 }
-//             ]
-
 const App = () => (
     <div>
         <Tweet username="User 1" name="Name 1" date="2023-08-21" message="I am the first tweeter to tweet!" />
